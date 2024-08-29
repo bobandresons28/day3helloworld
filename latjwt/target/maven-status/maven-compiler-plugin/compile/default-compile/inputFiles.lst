@@ -1,0 +1,12 @@
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/LatjwtApplication.java
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/configs/ApplicationConfiguration.java
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/configs/JwtAuthenticationFilter.java
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/configs/SecurityConfiguration.java
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/controller/AuthenticationController.java
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/dtos/LoginUserDto.java
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/dtos/RegisterUserDto.java
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/entities/User.java
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/repositories/UserRepository.java
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/responses/LoginResponse.java
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/services/AuthenticationService.java
+/Users/bobandresons/Downloads/latjwt/src/main/java/com/example/latjwt/services/JwtService.java
